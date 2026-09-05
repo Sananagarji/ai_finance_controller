@@ -1,0 +1,259 @@
+time,ref,message
+16:14:50,PAY-001,"Loaded (47445.4, Orbit Foods Pvt Ltd)"
+16:14:50,PAY-001,1 candidate bank transaction(s) found
+16:14:50,PAY-001,Candidate BNK-001 scored 100 - auto-reconciling
+16:14:50,PAY-002,"Loaded (5211.41, ACME PRIVATE LIMITED)"
+16:14:50,PAY-002,1 candidate bank transaction(s) found
+16:14:50,PAY-002,Candidate BNK-002 scored 100 - auto-reconciling
+16:14:50,PAY-003,"Loaded (29691.53, Clearwater Media Pvt Ltd)"
+16:14:50,PAY-003,4 candidate bank transaction(s) found
+16:14:50,PAY-003,Investigator activated
+16:14:50,PAY-003,"Amount gap of 488.2 detected, searching fee records"
+16:14:50,PAY-003,"Fee record FEE-003 found, explains gap"
+16:14:50,PAY-004,"Loaded (29498.41, Bluepeak Private Ltd.)"
+16:14:50,PAY-004,3 candidate bank transaction(s) found
+16:14:50,PAY-004,Candidate BNK-004 scored 96 - auto-reconciling
+16:14:50,PAY-005,"Loaded (21952.02, Northstar Logistics Pvt. Ltd)"
+16:14:50,PAY-005,5 candidate bank transaction(s) found
+16:14:50,PAY-005,Investigator activated
+16:14:50,PAY-005,Ambiguous: BNK-005a and BNK-005b score within 5 points of each other
+16:14:50,PAY-006,"Loaded (26734.63, UPI/VERTEXTRADERS/55020)"
+16:14:50,PAY-006,9 candidate bank transaction(s) found
+16:14:50,PAY-006,Candidate BNK-006 scored 96 - auto-reconciling
+16:14:50,PAY-007,"Loaded (46730.24, Nimbus Retail Pvt Ltd)"
+16:14:50,PAY-007,2 candidate bank transaction(s) found
+16:14:50,PAY-007,Investigator activated
+16:14:50,PAY-007,"Amount gap of -715.16 detected, searching fee records"
+16:14:50,PAY-007,No fee record explains the gap - escalating
+16:14:50,PAY-008,"Loaded (30124.12, Orbit Foods Pvt Ltd)"
+16:14:50,PAY-008,5 candidate bank transaction(s) found
+16:14:50,PAY-008,Investigator activated
+16:14:50,PAY-008,"Amount gap of 1429.06 detected, searching fee records"
+16:14:50,PAY-008,No fee record explains the gap - escalating
+16:14:50,PAY-009,"Loaded (36114.76, Vertex Traders Private Ltd.)"
+16:14:50,PAY-009,4 candidate bank transaction(s) found
+16:14:50,PAY-009,Candidate BNK-009 scored 96 - auto-reconciling
+16:14:50,PAY-010,"Loaded (11692.18, ACME PRIVATE LIMITED)"
+16:14:50,PAY-010,1 candidate bank transaction(s) found
+16:14:50,PAY-010,Candidate BNK-010 scored 96 - auto-reconciling
+16:14:50,PAY-011,"Loaded (41144.71, Nimbus Retail Private Ltd.)"
+16:14:50,PAY-011,4 candidate bank transaction(s) found
+16:14:50,PAY-011,Investigator activated
+16:14:50,PAY-011,"Amount gap of 646.86 detected, searching fee records"
+16:14:50,PAY-011,No fee record explains the gap - escalating
+16:14:50,PAY-012,"Loaded (5066.25, NIMBUS RETAIL PRIVATE LIMITED)"
+16:14:50,PAY-012,4 candidate bank transaction(s) found
+16:14:50,PAY-012,Candidate BNK-012 scored 100 - auto-reconciling
+16:14:50,PAY-013,"Loaded (27194.96, Riverline Private Ltd.)"
+16:14:50,PAY-013,9 candidate bank transaction(s) found
+16:14:50,PAY-013,Investigator activated
+16:14:50,PAY-013,Ambiguous: BNK-013 and BNK-013-dup score within 5 points of each other
+16:14:50,PAY-014,"Loaded (45077.12, Sunfield Textiles Pvt. Ltd)"
+16:14:50,PAY-014,6 candidate bank transaction(s) found
+16:14:50,PAY-014,Candidate BNK-014 scored 100 - auto-reconciling
+16:14:50,PAY-015,"Loaded (4300.03, CEDAR & CO PRIVATE LIMITED)"
+16:14:50,PAY-015,1 candidate bank transaction(s) found
+16:14:50,PAY-015,Candidate BNK-015 scored 100 - auto-reconciling
+16:14:50,PAY-016,"Loaded (5971.75, Northstar Logistics Pvt Ltd)"
+16:14:50,PAY-016,4 candidate bank transaction(s) found
+16:14:50,PAY-016,Candidate BNK-016 scored 96 - auto-reconciling
+16:14:50,PAY-017,"Loaded (18844.01, UPI/CLEARWATERMEDIA/25119)"
+16:14:50,PAY-017,4 candidate bank transaction(s) found
+16:14:50,PAY-017,Investigator activated
+16:14:50,PAY-017,Ambiguous: BNK-017-dup and BNK-017 score within 5 points of each other
+16:14:50,PAY-018,"Loaded (8061.76, Bluepeak Private Ltd.)"
+16:14:50,PAY-018,3 candidate bank transaction(s) found
+16:14:50,PAY-018,Candidate BNK-018 scored 96 - auto-reconciling
+16:14:50,PAY-019,"Loaded (34813.31, Nimbus Retail Pvt. Ltd)"
+16:14:50,PAY-019,2 candidate bank transaction(s) found
+16:14:50,PAY-019,Candidate BNK-019 scored 96 - auto-reconciling
+16:14:50,PAY-020,"Loaded (18429.11, Nimbus Retail Pvt. Ltd)"
+16:14:50,PAY-020,4 candidate bank transaction(s) found
+16:14:50,PAY-020,Investigator activated
+16:14:50,PAY-020,Ambiguous: BNK-062 and BNK-067 score within 5 points of each other
+16:14:50,PAY-021,"Loaded (40497.85, CEDAR & CO PRIVATE LIMITED)"
+16:14:50,PAY-021,4 candidate bank transaction(s) found
+16:14:50,PAY-021,Candidate BNK-021 scored 96 - auto-reconciling
+16:14:50,PAY-022,"Loaded (13699.54, Sunfield Textiles Private Ltd.)"
+16:14:50,PAY-022,6 candidate bank transaction(s) found
+16:14:50,PAY-022,Candidate BNK-022 scored 100 - auto-reconciling
+16:14:50,PAY-023,"Loaded (10638.6, Sunfield Textiles Pvt. Ltd)"
+16:14:50,PAY-023,4 candidate bank transaction(s) found
+16:14:50,PAY-023,Investigator activated
+16:14:50,PAY-023,Ambiguous: BNK-023 and BNK-023-dup score within 5 points of each other
+16:14:50,PAY-024,"Loaded (41897.79, BLUEPEAK PRIVATE LIMITED)"
+16:14:50,PAY-024,2 candidate bank transaction(s) found
+16:14:50,PAY-024,Candidate BNK-024 scored 96 - auto-reconciling
+16:14:50,PAY-025,"Loaded (20667.95, SUNFIELD TEXTILES PRIVATE LIMITED)"
+16:14:50,PAY-025,3 candidate bank transaction(s) found
+16:14:50,PAY-025,Candidate BNK-025 scored 100 - auto-reconciling
+16:14:50,PAY-026,"Loaded (41499.01, Clearwater Media Private Ltd.)"
+16:14:50,PAY-026,4 candidate bank transaction(s) found
+16:14:50,PAY-026,Candidate BNK-026 scored 100 - auto-reconciling
+16:14:50,PAY-027,"Loaded (49340.92, Riverline Pvt Ltd)"
+16:14:50,PAY-027,3 candidate bank transaction(s) found
+16:14:50,PAY-027,Candidate BNK-027 scored 96 - auto-reconciling
+16:14:50,PAY-028,"Loaded (21531.62, Northstar Logistics Private Ltd.)"
+16:14:50,PAY-028,5 candidate bank transaction(s) found
+16:14:50,PAY-028,Investigator activated
+16:14:50,PAY-028,Ambiguous: BNK-028b and BNK-028a score within 5 points of each other
+16:14:50,PAY-029,"Loaded (26651.82, NIMBUS RETAIL PRIVATE LIMITED)"
+16:14:50,PAY-029,10 candidate bank transaction(s) found
+16:14:50,PAY-029,Investigator activated
+16:14:50,PAY-029,"Amount gap of 525.97 detected, searching fee records"
+16:14:50,PAY-029,"Fee record FEE-029 found, explains gap"
+16:14:50,PAY-030,"Loaded (27005.59, Northstar Logistics Pvt. Ltd)"
+16:14:50,PAY-030,7 candidate bank transaction(s) found
+16:14:50,PAY-030,Candidate BNK-030 scored 96 - auto-reconciling
+16:14:50,PAY-031,"Loaded (2365.42, UPI/NORTHSTARLOGISTICS/18305)"
+16:14:50,PAY-031,1 candidate bank transaction(s) found
+16:14:50,PAY-031,Candidate BNK-031 scored 96 - auto-reconciling
+16:14:50,PAY-032,"Loaded (27130.99, NORTHSTAR LOGISTICS PRIVATE LIMITED)"
+16:14:50,PAY-032,9 candidate bank transaction(s) found
+16:14:50,PAY-032,Investigator activated
+16:14:50,PAY-032,"Amount gap of 125.4 detected, searching fee records"
+16:14:50,PAY-032,No fee record explains the gap - escalating
+16:14:50,PAY-033,"Loaded (16483.01, UPI/SUNFIELDTEXTILES/41541)"
+16:14:50,PAY-033,6 candidate bank transaction(s) found
+16:14:50,PAY-033,Candidate BNK-033 scored 100 - auto-reconciling
+16:14:50,PAY-034,"Loaded (44258.81, VERTEX TRADERS PRIVATE LIMITED)"
+16:14:50,PAY-034,5 candidate bank transaction(s) found
+16:14:51,PAY-034,Investigator activated
+16:14:51,PAY-034,"Amount gap of -197.44 detected, searching fee records"
+16:14:51,PAY-034,No fee record explains the gap - escalating
+16:14:51,PAY-035,"Loaded (49503.7, NIMBUS RETAIL PRIVATE LIMITED)"
+16:14:51,PAY-035,1 candidate bank transaction(s) found
+16:14:51,PAY-035,Best candidate score too low - escalating
+16:14:51,PAY-036,"Loaded (10591.49, Riverline Private Ltd.)"
+16:14:51,PAY-036,5 candidate bank transaction(s) found
+16:14:51,PAY-036,Candidate BNK-036 scored 96 - auto-reconciling
+16:14:51,PAY-037,"Loaded (31572.43, Northstar Logistics Pvt Ltd)"
+16:14:51,PAY-037,4 candidate bank transaction(s) found
+16:14:51,PAY-037,Investigator activated
+16:14:51,PAY-037,Ambiguous: BNK-037-dup and BNK-037 score within 5 points of each other
+16:14:51,PAY-038,"Loaded (2939.82, Vertex Traders Private Ltd.)"
+16:14:51,PAY-038,2 candidate bank transaction(s) found
+16:14:51,PAY-038,Investigator activated
+16:14:51,PAY-038,Ambiguous: BNK-059 and BNK-065 score within 5 points of each other
+16:14:51,PAY-039,"Loaded (27293.35, UPI/NIMBUSRETAIL/84789)"
+16:14:51,PAY-039,7 candidate bank transaction(s) found
+16:14:51,PAY-039,Investigator activated
+16:14:51,PAY-039,"Amount gap of 287.76 detected, searching fee records"
+16:14:51,PAY-039,No fee record explains the gap - escalating
+16:14:51,PAY-040,"Loaded (21840.53, Nimbus Retail Pvt Ltd)"
+16:14:51,PAY-040,10 candidate bank transaction(s) found
+16:14:51,PAY-040,Investigator activated
+16:14:51,PAY-040,"Amount gap of 514.61 detected, searching fee records"
+16:14:51,PAY-040,"Fee record FEE-040 found, explains gap"
+16:14:51,PAY-041,"Loaded (17618.44, Acme Private Ltd.)"
+16:14:51,PAY-041,1 candidate bank transaction(s) found
+16:14:51,PAY-041,Investigator activated
+16:14:51,PAY-041,"Amount gap of 306.29 detected, searching fee records"
+16:14:51,PAY-041,"Fee record FEE-041 found, explains gap"
+16:14:51,PAY-042,"Loaded (10886.64, Nimbus Retail Private Ltd.)"
+16:14:51,PAY-042,6 candidate bank transaction(s) found
+16:14:51,PAY-042,Candidate BNK-042 scored 96 - auto-reconciling
+16:14:51,PAY-043,"Loaded (40380.27, Orbit Foods Pvt Ltd)"
+16:14:51,PAY-043,3 candidate bank transaction(s) found
+16:14:51,PAY-043,Candidate BNK-043 scored 100 - auto-reconciling
+16:14:51,PAY-044,"Loaded (6207.79, UPI/SUNFIELDTEXTILES/95210)"
+16:14:51,PAY-044,3 candidate bank transaction(s) found
+16:14:51,PAY-044,Investigator activated
+16:14:51,PAY-044,"Amount gap of 112.22 detected, searching fee records"
+16:14:51,PAY-044,"Fee record FEE-044 found, explains gap"
+16:14:51,PAY-045,"Loaded (20830.19, NIMBUS RETAIL PRIVATE LIMITED)"
+16:14:51,PAY-045,5 candidate bank transaction(s) found
+16:14:51,PAY-045,Candidate BNK-045 scored 100 - auto-reconciling
+16:14:51,PAY-046,"Loaded (43656.35, Riverline Pvt. Ltd)"
+16:14:51,PAY-046,5 candidate bank transaction(s) found
+16:14:51,PAY-046,Candidate BNK-046 scored 96 - auto-reconciling
+16:14:51,PAY-047,"Loaded (1177.51, Sunfield Textiles Pvt. Ltd)"
+16:14:51,PAY-047,3 candidate bank transaction(s) found
+16:14:51,PAY-047,Candidate BNK-047 scored 100 - auto-reconciling
+16:14:51,PAY-048,"Loaded (19699.7, Orbit Foods Pvt. Ltd)"
+16:14:51,PAY-048,3 candidate bank transaction(s) found
+16:14:51,PAY-048,Investigator activated
+16:14:51,PAY-048,"Amount gap of 313.39 detected, searching fee records"
+16:14:51,PAY-048,"Fee record FEE-048 found, explains gap"
+16:14:51,PAY-049,"Loaded (2102.21, RIVERLINE PRIVATE LIMITED)"
+16:14:51,PAY-049,3 candidate bank transaction(s) found
+16:14:51,PAY-049,Candidate BNK-049 scored 96 - auto-reconciling
+16:14:51,PAY-050,"Loaded (8323.69, SUNFIELD TEXTILES PRIVATE LIMITED)"
+16:14:51,PAY-050,6 candidate bank transaction(s) found
+16:14:51,PAY-050,Candidate BNK-050 scored 100 - auto-reconciling
+16:14:51,PAY-051,"Loaded (40100.39, CLEARWATER MEDIA PRIVATE LIMITED)"
+16:14:51,PAY-051,6 candidate bank transaction(s) found
+16:14:51,PAY-051,Candidate BNK-051 scored 96 - auto-reconciling
+16:14:51,PAY-052,"Loaded (28367.84, Sunfield Textiles Pvt. Ltd)"
+16:14:51,PAY-052,8 candidate bank transaction(s) found
+16:14:51,PAY-052,Investigator activated
+16:14:51,PAY-052,"Amount gap of 555.14 detected, searching fee records"
+16:14:51,PAY-052,"Fee record FEE-052 found, explains gap"
+16:14:51,PAY-053,"Loaded (13357.48, SUNFIELD TEXTILES PRIVATE LIMITED)"
+16:14:51,PAY-053,1 candidate bank transaction(s) found
+16:14:51,PAY-053,Investigator activated
+16:14:51,PAY-053,"Amount gap of -342.06 detected, searching fee records"
+16:14:51,PAY-053,No fee record explains the gap - escalating
+16:14:51,PAY-054,"Loaded (25203.49, UPI/SUNFIELDTEXTILES/20058)"
+16:14:51,PAY-054,3 candidate bank transaction(s) found
+16:14:51,PAY-054,Investigator activated
+16:14:51,PAY-054,Ambiguous: BNK-054a and BNK-054b score within 5 points of each other
+16:14:51,PAY-055,"Loaded (17256.87, Nimbus Retail Pvt. Ltd)"
+16:14:51,PAY-055,3 candidate bank transaction(s) found
+16:14:51,PAY-055,Investigator activated
+16:14:51,PAY-055,"Amount gap of 342.69 detected, searching fee records"
+16:14:51,PAY-055,"Fee record FEE-055 found, explains gap"
+16:14:51,PAY-056,"Loaded (35734.68, UPI/VERTEXTRADERS/70904)"
+16:14:51,PAY-056,2 candidate bank transaction(s) found
+16:14:51,PAY-056,Candidate BNK-056 scored 96 - auto-reconciling
+16:14:51,PAY-057,"Loaded (15189.86, UPI/ACME/76403)"
+16:14:51,PAY-057,2 candidate bank transaction(s) found
+16:14:51,PAY-057,Investigator activated
+16:14:51,PAY-057,Ambiguous: BNK-057 and BNK-057-dup score within 5 points of each other
+16:14:51,PAY-058,"Loaded (5424.85, Clearwater Media Private Ltd.)"
+16:14:51,PAY-058,3 candidate bank transaction(s) found
+16:14:51,PAY-058,Investigator activated
+16:14:51,PAY-058,Ambiguous: BNK-058-dup and BNK-058 score within 5 points of each other
+16:14:51,PAY-059,"Loaded (44456.25, VERTEX TRADERS PRIVATE LIMITED)"
+16:14:51,PAY-059,4 candidate bank transaction(s) found
+16:14:51,PAY-059,Candidate BNK-059 scored 96 - auto-reconciling
+16:14:51,PAY-060,"Loaded (20865.55, UPI/SUNFIELDTEXTILES/28442)"
+16:14:51,PAY-060,8 candidate bank transaction(s) found
+16:14:51,PAY-060,Candidate BNK-060 scored 96 - auto-reconciling
+16:14:51,PAY-061,"Loaded (6882.03, Riverline Pvt Ltd)"
+16:14:51,PAY-061,2 candidate bank transaction(s) found
+16:14:51,PAY-061,Investigator activated
+16:14:51,PAY-061,Ambiguous: BNK-061b and BNK-061a score within 5 points of each other
+16:14:51,PAY-062,"Loaded (18674.76, Bluepeak Pvt Ltd)"
+16:14:51,PAY-062,3 candidate bank transaction(s) found
+16:14:51,PAY-062,Candidate BNK-062 scored 96 - auto-reconciling
+16:14:51,PAY-063,"Loaded (26037.19, UPI/RIVERLINE/58935)"
+16:14:51,PAY-063,8 candidate bank transaction(s) found
+16:14:51,PAY-063,Investigator activated
+16:14:51,PAY-063,Ambiguous: BNK-063a and BNK-063b score within 5 points of each other
+16:14:51,PAY-064,"Loaded (23092.16, Riverline Private Ltd.)"
+16:14:51,PAY-064,2 candidate bank transaction(s) found
+16:14:51,PAY-064,Candidate BNK-064 scored 96 - auto-reconciling
+16:14:51,PAY-065,"Loaded (15590.82, Vertex Traders Private Ltd.)"
+16:14:51,PAY-065,3 candidate bank transaction(s) found
+16:14:51,PAY-065,Candidate BNK-065 scored 100 - auto-reconciling
+16:14:51,PAY-066,"Loaded (32517.05, Nimbus Retail Pvt. Ltd)"
+16:14:51,PAY-066,5 candidate bank transaction(s) found
+16:14:51,PAY-066,Investigator activated
+16:14:51,PAY-066,Ambiguous: BNK-066b and BNK-066a score within 5 points of each other
+16:14:51,PAY-067,"Loaded (27841.48, NIMBUS RETAIL PRIVATE LIMITED)"
+16:14:51,PAY-067,2 candidate bank transaction(s) found
+16:14:51,PAY-067,Candidate BNK-067 scored 100 - auto-reconciling
+16:14:51,PAY-068,"Loaded (37733.22, UPI/ACME/60179)"
+16:14:51,PAY-068,3 candidate bank transaction(s) found
+16:14:51,PAY-068,Investigator activated
+16:14:51,PAY-068,Ambiguous: BNK-069-dup and BNK-069 score within 5 points of each other
+16:14:51,PAY-069,"Loaded (37853.44, Orbit Foods Pvt. Ltd)"
+16:14:51,PAY-069,3 candidate bank transaction(s) found
+16:14:51,PAY-069,Investigator activated
+16:14:51,PAY-069,Ambiguous: BNK-069-dup and BNK-069 score within 5 points of each other
+16:14:51,PAY-070,"Loaded (14280.02, UPI/BLUEPEAK/60405)"
+16:14:51,PAY-070,1 candidate bank transaction(s) found
+16:14:51,PAY-070,Investigator activated
+16:14:51,PAY-070,"Amount gap of 232.37 detected, searching fee records"
+16:14:51,PAY-070,"Fee record FEE-070 found, explains gap"

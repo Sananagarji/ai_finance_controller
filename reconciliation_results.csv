@@ -1,0 +1,71 @@
+payment_id,decision,confidence,method,reasoning_summary,recommended_action,ledger_matched
+PAY-001,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-001
+PAY-002,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-002
+PAY-003,RECONCILED,85,INVESTIGATOR,The ₹488.2 gap between payment and settlement is fully explained by fee record FEE-003.,,LDG-003
+PAY-004,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-004
+PAY-005,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-005a or BNK-005b is the correct match.,LDG-005
+PAY-006,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-006
+PAY-007,EXCEPTION,60,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹-715.16 difference on BNK-001.,LDG-007
+PAY-008,EXCEPTION,60,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹1429.06 difference on BNK-008.,LDG-008
+PAY-009,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-009
+PAY-010,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-010
+PAY-011,EXCEPTION,62,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹646.86 difference on BNK-021.,LDG-011
+PAY-012,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-012
+PAY-013,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-013 or BNK-013-dup is the correct match.,LDG-039
+PAY-014,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-014
+PAY-015,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-015
+PAY-016,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-016
+PAY-017,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-017-dup or BNK-017 is the correct match.,
+PAY-018,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-018
+PAY-019,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-019
+PAY-020,EXCEPTION,52,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-062 or BNK-067 is the correct match.,LDG-020
+PAY-021,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-021
+PAY-022,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-022
+PAY-023,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-023 or BNK-023-dup is the correct match.,
+PAY-024,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-024
+PAY-025,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-025
+PAY-026,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-026
+PAY-027,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-027
+PAY-028,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-028b or BNK-028a is the correct match.,LDG-028
+PAY-029,RECONCILED,85,INVESTIGATOR,The ₹525.97 gap between payment and settlement is fully explained by fee record FEE-029.,,LDG-029
+PAY-030,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-030
+PAY-031,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-031
+PAY-032,EXCEPTION,92,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹125.4 difference on BNK-030.,LDG-032
+PAY-033,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-033
+PAY-034,EXCEPTION,76,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹-197.44 difference on BNK-059.,LDG-034
+PAY-035,EXCEPTION,53,RULE,No candidate is a confident enough match to reconcile automatically.,Manually review BNK-027 against PAY-035.,LDG-035
+PAY-036,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-036
+PAY-037,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-037-dup or BNK-037 is the correct match.,
+PAY-038,EXCEPTION,46,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-059 or BNK-065 is the correct match.,LDG-038
+PAY-039,EXCEPTION,72,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹287.76 difference on BNK-030.,LDG-039
+PAY-040,RECONCILED,85,INVESTIGATOR,The ₹514.61 gap between payment and settlement is fully explained by fee record FEE-040.,,LDG-040
+PAY-041,RECONCILED,85,INVESTIGATOR,The ₹306.29 gap between payment and settlement is fully explained by fee record FEE-041.,,LDG-041
+PAY-042,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-042
+PAY-043,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-043
+PAY-044,RECONCILED,85,INVESTIGATOR,The ₹112.22 gap between payment and settlement is fully explained by fee record FEE-044.,,LDG-044
+PAY-045,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-045
+PAY-046,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-046
+PAY-047,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-047
+PAY-048,RECONCILED,85,INVESTIGATOR,The ₹313.39 gap between payment and settlement is fully explained by fee record FEE-048.,,LDG-048
+PAY-049,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-049
+PAY-050,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-050
+PAY-051,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-051
+PAY-052,RECONCILED,85,INVESTIGATOR,The ₹555.14 gap between payment and settlement is fully explained by fee record FEE-052.,,LDG-052
+PAY-053,EXCEPTION,62,INVESTIGATOR,An unexplained amount discrepancy exists. The system will not assume this is a fee without a corroborating fee record.,Manually verify the ₹-342.06 difference on BNK-022.,LDG-053
+PAY-054,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-054a or BNK-054b is the correct match.,LDG-054
+PAY-055,RECONCILED,85,INVESTIGATOR,The ₹342.69 gap between payment and settlement is fully explained by fee record FEE-055.,,LDG-055
+PAY-056,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-056
+PAY-057,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-057 or BNK-057-dup is the correct match.,
+PAY-058,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-058-dup or BNK-058 is the correct match.,
+PAY-059,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-059
+PAY-060,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-060
+PAY-061,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-061b or BNK-061a is the correct match.,LDG-061
+PAY-062,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-062
+PAY-063,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-063a or BNK-063b is the correct match.,LDG-063
+PAY-064,RECONCILED,96,RULE,Strong multi-signal match.,,LDG-064
+PAY-065,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-065
+PAY-066,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-066b or BNK-066a is the correct match.,LDG-066
+PAY-067,RECONCILED,100,RULE,Strong multi-signal match.,,LDG-067
+PAY-068,EXCEPTION,64,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-069-dup or BNK-069 is the correct match.,LDG-068
+PAY-069,EXCEPTION,100,INVESTIGATOR,Two or more bank transactions are equally strong candidates. Auto-selecting one risks reconciling against the wrong transaction.,Manually confirm whether BNK-069-dup or BNK-069 is the correct match.,LDG-068
+PAY-070,RECONCILED,85,INVESTIGATOR,The ₹232.37 gap between payment and settlement is fully explained by fee record FEE-070.,,LDG-070
